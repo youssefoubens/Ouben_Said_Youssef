@@ -1,6 +1,7 @@
 package com.youssef.conferenceservice.mappers;
 
 
+import com.youssef.conferenceservice.dtos.ReviewRequestDTO;
 import com.youssef.conferenceservice.dtos.ReviewResponseDTO;
 import com.youssef.conferenceservice.entities.Review;
 import org.mapstruct.Mapper;
